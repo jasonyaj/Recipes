@@ -1,0 +1,27 @@
+body {
+    background-color:  rgb(230, 246, 246);
+}
+
+h1{
+    color: rebeccapurple;
+}
+
+h2{
+    color:rgb(57, 57, 255)
+}
+
+header {
+    padding: 1.5rem;
+}
+
+div.container {
+    background-color: rgb(255, 255, 255);
+}
+
+p {
+    margin: 0;
+}
+
+textarea {
+    resize: none;
+}
