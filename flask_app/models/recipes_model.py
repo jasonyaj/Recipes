@@ -1,8 +1,8 @@
 from flask_app.config.mysqlconnection import connectToMySQL
 from flask_app import DATABASE
-from flask_app.models import users_model
 from flask import flash
 from pprint import pprint
+from flask_app.models import users_model
 
 class Recipe:
     def __init__(self, data):
